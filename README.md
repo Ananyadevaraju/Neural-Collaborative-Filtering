@@ -26,3 +26,4 @@ References:
 1. https://arxiv.org/abs/1708.05031
 2. https://github.com/hexiangnan/neural_collaborative_filtering
 3. https://towardsdatascience.com/deep-learning-based-recommender-systems-3d120201db7e
+4. https://github.com/microsoft/recommenders
